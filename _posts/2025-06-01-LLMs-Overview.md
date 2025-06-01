@@ -22,6 +22,7 @@ Since then, many powerful models have followed:
 | GPT-4o | Proprietary | N/A | USA | OpenAI | May 13, 2024 | Cloud | Multimodal (text, image, audio), faster, cost-effective | 128,000 | [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o) |
 | LLaMA 3 | Source-available | Custom (with restrictions) | USA | Meta | Apr 18, 2024 | Cloud, Local (with license) | Multilingual, multimodal, advanced reasoning | 8,000 | [LLaMA 3](https://www.llama.com/llama3/) |
 | Gemini 1.5 | Proprietary | N/A | USA | Google DeepMind | Feb 15, 2024 | Cloud | Multimodal, long-context processing | 2,000,000 | [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) |
+| Grok | Proprietary | N/A | USA | xAI (Elon Musk) | Nov 2023 | Cloud (X/Twitter Premium) | Conversational AI with real-time knowledge from X | Unknown | [Grok](https://x.ai/) |
 | GPT-4 | Proprietary | N/A | USA | OpenAI | Mar 14, 2023 | Cloud | Multimodal (text, image), advanced reasoning | 32,000 | [GPT-4](https://openai.com/index/gpt-4-research/) |
 | LLaMA 2 | Source-available | Custom (with restrictions) | USA | Meta | Jul 18, 2023 | Cloud, Local (with license) | Text generation, chat | 4,096 | [LLaMA 2](https://www.llama.com/llama2/) |
 | Mistral 7B | Open-source | Apache 2.0 | France | Mistral AI | Sep 27, 2023 | Cloud, Local | Code generation, reasoning | 32,000 | [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b) |
