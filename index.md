@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tejaswini Vadlamudi’s Blog
+title: Data-Science
 ---
 
 Welcome to my personal blog on AI, LLMs, and Data Science.
